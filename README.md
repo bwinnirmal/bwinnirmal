@@ -7,7 +7,7 @@ Web Developer And Designer
 I Am A Front End Developer Born In India, I Have Learned HTML, CSS, Javascript(Basic), Jquery(Basic), And BootStrap. And Learning More Languages.
 
 * 🌍  I'm based in Ahmedabad India
-* 🖥️  See my portfolio at [My Portfolio](http://bwinnirmal.in)
+* 🖥️  See my portfolio at [My Portfolio](https://bwinnirmal.github.io/portfolioNirmal/)
 * ✉️  You can contact me at [codewithnirmal@gmail.com](mailto:codewithnirmal@gmail.com)
 * 🧠  I'm learning Front-End Development
 * 🤝  I'm open to collaborating on Front-End Projects
